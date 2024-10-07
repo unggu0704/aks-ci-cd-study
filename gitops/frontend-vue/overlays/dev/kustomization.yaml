@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: eduazureregistry1001.azurecr.io/frontend-vue # 이미지 주소 변경필요
-    newTag: main-20241007072611
+    newTag: main-20241007074159
 
 commonLabels:
   app: frontend-vue
